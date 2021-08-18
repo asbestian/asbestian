@@ -19,4 +19,4 @@ from TU Berlin. You can also find me on
 
 ## Links
 
-* non-work related [personal webpage](https://www.asbestian.de)
+* [asbestian.de](https://www.asbestian.de)
