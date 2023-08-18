@@ -1,9 +1,8 @@
 ## About me
 
-I work in the convex hull of algorithmic discrete mathematics, optimisation 
-and software development. I have studied mathematics and computer science with 
-a focus in combinatorial optimisation and multicriteria linear optimisation. 
-I have received a [PhD](https://depositonce.tu-berlin.de/bitstream/11303/10282/4/schenker_sebastian.pdf) from TU Berlin. 
+I work in the convex hull of mathematical optimisation and software development. 
+I have studied mathematics and computer science with a focus in combinatorial optimisation 
+and multicriteria linear optimisation. I have received a [PhD](https://depositonce.tu-berlin.de/bitstream/11303/10282/4/schenker_sebastian.pdf) from TU Berlin. 
 You can also find me on [linkedin](https://uk.linkedin.com/in/sebastian-schenker).
 
 ## Curriculum vitae
